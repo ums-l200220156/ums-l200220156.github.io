@@ -1,4 +1,4 @@
-HOW TO RUN TE CODE:
+HOW TO RUN THE CODE:
 
 pip install metaflow
 

@@ -43,7 +43,7 @@ def make_matrix(docs, binary=False, min_df=10, max_df=0.1):
 
 if __name__ == "__main__":
     # Path ke file data
-    file_path = '/mnt/d/ums-l200220156.github.io/data_group_cleaned.csv'
+    file_path = '/mnt/d/ums-l200220156.github.io/ums-l200220156.github.io/data_group_cleaned.csv'
     
     # Uji fungsi load_data_group
     try:

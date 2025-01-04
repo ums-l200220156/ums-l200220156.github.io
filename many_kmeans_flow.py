@@ -8,7 +8,7 @@ class ManyKMeansFlow(FlowSpec):
     def start(self):
         """Memuat data dan membuat matriks fitur."""
         # Path file CSV
-        data_path = '/mnt/d/ums-l200220156.github.io/data_group_cleaned.csv'
+        data_path = '/mnt/d/ums-l200220156.github.io/ums-l200220156.github.io/data_group_cleaned.csv'
         
         # Memuat data dari file
         docs = load_data_group(data_path)
